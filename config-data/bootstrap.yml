@@ -1,2 +1,2 @@
-spring.application.name=inmueble-service
+spring.application.name=micro-controller
 server.port=8886
